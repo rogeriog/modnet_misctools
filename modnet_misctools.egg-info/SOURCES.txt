@@ -1,0 +1,7 @@
+README.md
+setup.py
+modnet_misctools.egg-info/PKG-INFO
+modnet_misctools.egg-info/SOURCES.txt
+modnet_misctools.egg-info/dependency_links.txt
+modnet_misctools.egg-info/not-zip-safe
+modnet_misctools.egg-info/top_level.txt

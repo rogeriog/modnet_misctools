@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: modnet-misctools
+Version: 0.0.1
+Summary: Miscellaneous code to handle MODData, setup MODNet calculations, and other code
+Author: Rogerio Gouvea
+Author-email: <rogeriog.em@gmail.com>
+Keywords: modnet,python,machine learning,MEGNet
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Description-Content-Type: text/markdown
+
+
+# MODNet MiscTools
+Miscellaneous code to handle MODData, setup MODNet calculations, and other code useful for MODNet implementation is provided.
